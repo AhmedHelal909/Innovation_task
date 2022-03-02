@@ -1,0 +1,1 @@
+<img src="{{asset('uploads/'.$module_name_singular.'/'.$image)}}" width='50' height='50'>
